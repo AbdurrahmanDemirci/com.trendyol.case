@@ -18,6 +18,8 @@
         <webdriver.manager.version>4.4.3</webdriver.manager.version>
         <slf4j-log4j12.version>1.7.30</slf4j-log4j12.version>
         <javax.inject.version>1</javax.inject.version>
+        <jupiter.version>5.8.0-M1</jupiter.version>
+        <testng.version>6.14.3</testng.version>
     </properties>
 
     <dependencies>
@@ -55,6 +57,16 @@
             <groupId>javax.inject</groupId>
             <artifactId>javax.inject</artifactId>
             <version>${javax.inject.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>${jupiter.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>${testng.version}</version>
         </dependency>
     </dependencies>
 
