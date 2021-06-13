@@ -1,0 +1,57 @@
+[
+  {
+    "key": "header_login_iconText",
+    "value": "div[id='account-navigation-container'] div[class='link account-user'] p",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabWoman_text",
+    "value": "div[id='navigation-wrapper'] li[class*='tab-link'] a[href='/butik/liste/1/kadin']",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabMan_text",
+    "value": "div[id='navigation-wrapper'] li[class*='tab-link'] a[href='/butik/liste/2/erkek']",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabChild_text",
+    "value": "div[id='navigation-wrapper'] li[class*='tab-link'] a[href='/butik/liste/3/cocuk']",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabHomeAndLife_text",
+    "value": "div[id='navigation-wrapper'] li[class*='tab-link'] a[href='/butik/liste/12/ev--yasam']",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabSupermarket_text",
+    "value": "div[id='navigation-wrapper'] li[class*='tab-link'] a[href='/butik/liste/16/supermarket']",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabCosmetic_text",
+    "value": "div[id='navigation-wrapper'] li[class*='tab-link'] a[href='/butik/liste/11/kozmetik']",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabShoeAndBag_text",
+    "value": "div[id='navigation-wrapper'] li[class*='tab-link'] a[href='/butik/liste/9/ayakkabi--canta']",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabWatchAndAccessory_text",
+    "value": "div[id='navigation-wrapper'] li[class*='tab-link'] a[href='/butik/liste/10/saat--aksesuar']",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabElectronic_text",
+    "value": "div[id='navigation-wrapper'] li[class*='tab-link'] a[href='/butik/liste/5/elektronik']",
+    "type": "css"
+  },
+  {
+    "key": "header_categoryTabList_text",
+    "value": "div[id='navigation-wrapper'] li[class='tab-link'] a",
+    "type": "css"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "key": "PL_productList_img",
+    "value": "div[id='boutique-detail-app'] div[class='products'] img[class='p-card-img']",
+    "type": "css"
+  }
+]

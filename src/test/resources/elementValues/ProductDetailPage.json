@@ -1,0 +1,12 @@
+[
+  {
+    "key": "PD_myCartQuantity_text",
+    "value": "div[id='account-navigation-container'] div[class='basket-item-count-container visible']",
+    "type": "css"
+  },
+  {
+    "key": "PD_addToBasket_button",
+    "value": "div[class='prc-inf-wrp'] div[class='add-to-bs-tx']",
+    "type": "css"
+  }
+]

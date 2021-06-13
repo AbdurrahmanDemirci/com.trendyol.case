@@ -1,0 +1,7 @@
+[
+  {
+    "key": "boutiqueListPage_boutiqueList_img",
+    "value": "div[class='component-list component-big-list'] article[class='component-item'] img",
+    "type": "css"
+  }
+]

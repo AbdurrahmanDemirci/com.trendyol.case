@@ -1,0 +1,17 @@
+[
+  {
+    "key": "loginPage_email_textBox",
+    "value": "input[id='login-email']",
+    "type": "css"
+  },
+  {
+    "key": "loginPage_password_textBox",
+    "value": "input[id='login-password-input']",
+    "type": "css"
+  },
+  {
+    "key": "loginPage_login_button",
+    "value": "button[class='q-primary q-fluid q-button-medium q-button submit'] span",
+    "type": "css"
+  }
+]
