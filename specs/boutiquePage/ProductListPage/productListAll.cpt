@@ -1,0 +1,10 @@
+
+
+
+
+
+# Product list page image check
+* Click on the "header_categoryTabList_text" element
+* "1500" wait milliseconds
+* Click on the "boutiqueListPage_boutiqueList_img" element
+* Check getAttribute src "PL_productList_img"

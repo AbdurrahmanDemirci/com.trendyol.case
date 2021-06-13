@@ -1,0 +1,14 @@
+
+
+
+
+
+# Login with registered user Email: <email> Password: <password>
+* Click on the "header_login_iconText" element
+* Check if current URL contains the value "/giris"
+* Write value <email> to element "loginPage_email_textBox"
+* Write value <password> to element "loginPage_password_textBox"
+* Click on the "loginPage_login_button" element
+* "2500" wait milliseconds
+* Check if current URL contains the value "https://www.trendyol.com/"
+* Check if element "header_login_iconText" contains text "Hesabım"

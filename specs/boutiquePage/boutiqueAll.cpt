@@ -1,0 +1,50 @@
+
+
+
+
+
+# Boutique page image check
+* Click on the "header_categoryTabWoman_text" element
+* "1500" wait milliseconds
+* Check if current URL contains the value "/butik/liste/1/kadin"
+* Check getAttribute src "boutiqueListPage_boutiqueList_img"
+
+* Click on the "header_categoryTabMan_text" element
+* "1500" wait milliseconds
+* Check if current URL contains the value "/butik/liste/2/erkek"
+* Check getAttribute src "boutiqueListPage_boutiqueList_img"
+
+* Click on the "header_categoryTabChild_text" element
+* "1500" wait milliseconds
+* Check if current URL contains the value "/butik/liste/3/cocuk"
+* Check getAttribute src "boutiqueListPage_boutiqueList_img"
+
+* Click on the "header_categoryTabHomeAndLife_text" element
+* "1500" wait milliseconds
+* Check if current URL contains the value "/butik/liste/12/ev--yasam"
+* Check getAttribute src "boutiqueListPage_boutiqueList_img"
+
+* Click on the "header_categoryTabSupermarket_text" element
+* "1500" wait milliseconds
+* Check if current URL contains the value "/butik/liste/16/supermarket"
+* Check getAttribute src "boutiqueListPage_boutiqueList_img"
+
+* Click on the "header_categoryTabCosmetic_text" element
+* "1500" wait milliseconds
+* Check if current URL contains the value "/butik/liste/11/kozmetik"
+* Check getAttribute src "boutiqueListPage_boutiqueList_img"
+
+* Click on the "header_categoryTabShoeAndBag_text" element
+* "1500" wait milliseconds
+* Check if current URL contains the value "/butik/liste/9/ayakkabi--canta"
+* Check getAttribute src "boutiqueListPage_boutiqueList_img"
+
+* Click on the "header_categoryTabWatchAndAccessory_text" element
+* "1500" wait milliseconds
+* Check if current URL contains the value "/butik/liste/10/saat--aksesuar"
+* Check getAttribute src "boutiqueListPage_boutiqueList_img"
+
+* Click on the "header_categoryTabElectronic_text" element
+* "1500" wait milliseconds
+* Check if current URL contains the value "/butik/liste/5/elektronik"
+* Check getAttribute src "boutiqueListPage_boutiqueList_img"

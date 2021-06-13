@@ -1,0 +1,15 @@
+
+
+
+
+
+# Product detail page product select
+* Product list page image check
+* "1500" wait milliseconds
+* Click on the "PL_productList_img" element
+
+
+# Product detail page add product to cart
+* Product detail page product select
+* Click on the "PD_addToBasket_button" element
+* Check if element "PD_myCartQuantity_text" contains text "1"
